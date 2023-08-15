@@ -4,7 +4,7 @@ A "Hello, World!" example in x86-64 assembly for macOS
 
 ### Follow along the full tutorial: <a href="https://zerodayarcade.com/tutorials/hello-world-assembly-macos">Learn x86-64 Assembly for macOS: Hello World</a>
 
-The full tutorial includes complete instructions and a line-by-line code explanation.
+The full tutorial includes core concepts in assembly and a line-by-line code explanation. You'll need to understand what the code means in order to write your own assembly code or to use your knowledge for <a href="https://zerodayarcade.com/tutorials/solving-beginner-crackmes-part-1">reverse engineering</a>. To simply assemble and run the program, open Terminal and follow the steps below:
 <br/><br/>
 
 
@@ -37,7 +37,7 @@ You should now see "Hello, World!" printed in the Terminal.
 <br/>
 
 # More Zero Day Arcade Tutorials:
-<a href="https://zerodayarcade.com/tutorials">zerodayarcade.com/tutorials</a>
+🎓  <a href="https://zerodayarcade.com/tutorials">zerodayarcade.com/tutorials</a> 
 
 # Find Hacking Bounties in Gaming:
-<a href="https://zerodayarcade.com/bounties">zerodayarcade.com/bounties</a>
+🎮  <a href="https://zerodayarcade.com/bounties">zerodayarcade.com/bounties</a>
