@@ -1,5 +1,5 @@
 # x86-64-assembly-macos-hello-world
-A "Hello, World!" example in x86-64 assembly for macOS
+A "Hello World" example in x86-64 assembly for macOS
 <br/><br/>
 
 ### Follow along the full tutorial: <a href="https://zerodayarcade.com/tutorials/hello-world-assembly-macos">Learn x86-64 Assembly for macOS: Hello World</a>
@@ -32,7 +32,7 @@ gcc -o hello_assembly hello_assembly.o -nostdlib -static
 ```
 ./hello_assembly
 ```
-You should now see "Hello, World!" printed in the Terminal.
+You should now see "Hello World" printed in the Terminal.
 
 <br/>
 
