@@ -39,5 +39,3 @@ You should now see "Hello World" printed in the Terminal.
 # More Zero Day Arcade Tutorials:
 🎓  <a href="https://zerodayarcade.com/tutorials">zerodayarcade.com/tutorials</a> 
 
-# Find Hacking Bounties in Gaming:
-🎮  <a href="https://zerodayarcade.com/bounties">zerodayarcade.com/bounties</a>
